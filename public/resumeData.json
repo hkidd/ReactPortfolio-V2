@@ -1,8 +1,8 @@
 {
   "main": {
     "name": "Harrison Kidd",
-    "description": "I am a full-stack web developer and use JavaScript and React to develop web pages and applications. Check out some of the cool things I have been working on",
-    "image": "../src/components/assets/images/IMG_0527.jpeg",
+    "description": "I am a full-stack web developer and use JavaScript and React to develop web pages and applications. Learn more about me and check out some of the cool things I have been working on down below",
+    "image": "IMG_0527.jpeg",
     "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "harrisonakidd@gmail.com",
@@ -12,7 +12,7 @@
       "state": "TX"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "resumedownload": "https://drive.google.com/file/d/11HRkUcW2CaAkTgMJgi-zcqe3E252Ksbm/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -21,17 +21,17 @@
       },
       {
         "name": "twitter",
-        "url": "http://twitter.com",
+        "url": "https://twitter.com/HarrisonKidd8",
         "className": "fa fa-twitter"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url": "https://www.linkedin.com/in/harrison-kidd/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "github",
-        "url": "https://github.com/nordicgiant2/react-nice-resume",
+        "url": "https://github.com/hkidd",
         "className": "fa fa-github"
       }
     ]
@@ -111,7 +111,7 @@
         "title": "Spuds and Duds",
         "category": "",
         "image": "01.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "url": "https://spudsandduds.herokuapp.com/"
       },
       {
         "title": "Jobster",
