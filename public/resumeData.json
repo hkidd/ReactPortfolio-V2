@@ -1,0 +1,160 @@
+{
+  "main": {
+    "name": "Harrison Kidd",
+    "description": "I am a full-stack web developer and use JavaScript and React to develop web pages and applications. Check out some of the cool things I have been working on",
+    "image": "../src/components/assets/images/IMG_0527.jpeg",
+    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "harrisonakidd@gmail.com",
+    "github": "https://github.com/hkidd",
+    "address": {
+      "city": "Dallas",
+      "state": "TX"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://github.com/nordicgiant2/react-nice-resume",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/nordicgiant2/react-nice-resume",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Full Stack JavaScript Web Developer, with a natural sciences background.",
+    "education": [
+      {
+        "school": "University of Texas at Austin",
+        "degree": "Full Stack Web Development Certificate",
+        "graduated": "September 2021",
+        "description": "Rigorous 12-week Coding Boot Camp that focused on the MERN stack."
+      },
+      {
+        "school": "University of Texas at Austin",
+        "degree": "B.S. in Biology",
+        "graduated": "May 2017",
+        "description": "Studied abroad in Brisbane, Queensland, Australia, July 2014 – December 2014, and also was the scholarship chair of Theta Chi Fraternity, August 2013 – December 2013."
+      }
+    ],
+    "work": [
+      {
+        "company": "UT Southwestern Medical Center",
+        "title": "Research Technician II",
+        "years": "September 2019 - May 2021",
+        "description": "Focused on pancreatic islet biology and learning the ins and outs of endocrine and exocrine cells in order to produce publishable data."
+      },
+      {
+        "company": "Walgreens",
+        "title": "Pharmacy Technician",
+        "years": "June 2015 - September 2015",
+        "description": "Assisted the pharmacist with day-to-day tasks in the pharmacy."
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "90%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "75%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "85%"
+      },
+      {
+        "name": "Node",
+        "level": "70%"
+      },
+      {
+        "name": "Express",
+        "level": "60%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "50%"
+      },
+      {
+        "name": "mySQL",
+        "level": "50%"
+      },
+      {
+          "name": "AWS CCP",
+          "level": "50%"
+      }
+    ]
+  },
+  "projects": {
+    "projects": [
+      {
+        "title": "Spuds and Duds",
+        "category": "",
+        "image": "01.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Jobster",
+        "category": "",
+        "image": "02.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Pickflix and Grill",
+        "category": "",
+        "image": "03.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "04.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "05.jpg",
+        "url": "http://www.smirkspace.com"
+      },
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "06.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "01.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "02.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      }
+    ]
+  }
+}
