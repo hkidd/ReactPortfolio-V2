@@ -1,9 +1,9 @@
 {
   "main": {
     "name": "Harrison Kidd",
-    "description": "I am a full-stack web developer using JavaScript and React to develop web pages and applications. Learn more about me and check out some of the cool things I have been working on down below",
+    "description": "I am a Full Stack Web Developer using JavaScript and React to develop web pages and applications. Learn more about me and check out some of the cool things I have been working on down below",
     "image": "IMG_0527.jpeg",
-    "bio": "Full Stack JavaScript Web Developer, with a natural sciences background. Highly motivated and ambitious problem solver looking to join a forward thinking software development team. Experienced with developing front-end, back-end, and full stack web applications.",
+    "bio": "Full Stack Web Developer (MERN Stack), with a natural sciences background. Highly motivated and ambitious problem solver looking to join a forward thinking software development team. Experienced with developing front-end, back-end, and full stack web applications.",
     "contactmessage": "Feel free to send me a message if you would like to link up or have general comments!",
     "email": "harrisonakidd@gmail.com",
     "github": "https://github.com/hkidd",
@@ -73,7 +73,7 @@
       },
       {
         "name": "JavaScript",
-        "level": "75%"
+        "level": "85%"
       },
       {
         "name": "React.js",
@@ -109,39 +109,39 @@
     "projects": [
       {
         "title": "Spuds and Duds",
-        "description": "",
-        "image": "01.jpg",
+        "description": "A Full-Stack (MERN) application that provides users with a social movie review community.",
+        "image": "MainLandingPage.png",
         "url": "https://spudsandduds.herokuapp.com/"
       },
       {
         "title": "Jobster",
-        "description": "",
-        "image": "02.jpg",
-        "url": "http://www.timbakerdev.com"
+        "description": "A one stop shop to keep all job app related materials.",
+        "image": "JobsterHome2.png",
+        "url": "https://jobster-group-2.herokuapp.com/aboutus"
       },
       {
         "title": "Pickflix and Grill",
-        "description": "",
-        "image": "03.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+        "description": "A movie and recipe generator that takes in input from the user.",
+        "image": "PickflixAndGrill.png",
+        "url": "https://cnvives.github.io/group-3/"
       },
       {
         "title": "Note Taker",
-        "description": "A React based resume website template",
-        "image": "04.jpg",
-        "url": "http://www.timbakerdev.com"
+        "description": "An express.js back end is used to save and retrieve note data from a JSON file.",
+        "image": "NoteTakerEx.png",
+        "url": "https://note-taker-hk.herokuapp.com"
       },
       {
         "title": "Budget Tracker",
-        "description": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "05.jpg",
-        "url": "http://www.smirkspace.com"
+        "description": "Added functionality to an existing Budget Tracker application that allows for offline access and functionality.",
+        "image": "budget_tracker1.png",
+        "url": "https://budget-tracker-hk.herokuapp.com"
       },
       {
         "title": "Formula 1 Quiz",
-        "description": "My Travel Blog for my post-university travels",
-        "image": "06.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "description": "A timed quiz on random Formula 1 facts that stores the top 3 high scores in local storage.",
+        "image": "f1quiz.png",
+        "url": "https://hkidd.github.io/CodeQuiz/"
       }
     ]
   }

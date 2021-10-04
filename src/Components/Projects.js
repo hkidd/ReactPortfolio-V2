@@ -11,10 +11,15 @@ class Projects extends Component {
       let projectImage = "images/projects/" + projects.image;
 
       return (
-        <div key={id++} className="columns projects-item">
-          <div className="item-wrap">
-            <Zmage alt={projects.title} src={projectImage} />
-            <div style={{ textAlign: "center" }}>{projects.title}</div>
+        <div key={id++} className="projects-item">
+          <div className="item-wrap" style={{ marginTop: "5px", borderRadius: "4px" }}>
+            <a href={projects.url} target="blank"><img alt={projects.title} src={projectImage} width="60%" style={{ marginTop: "5px", borderRadius: "4px" }} /></a>
+            <div style={{ textAlign: "center", margin: "2px" }}>
+              <span style={{ fontWeight: "bolder" }}>{projects.title}</span>
+              <br></br>
+              <p>{projects.description}</p>
+              </div>
+              <br></br>
           </div>
         </div>
       );
@@ -24,7 +29,7 @@ class Projects extends Component {
       <section id="projects">
         <Fade left duration={1000} distance="40px">
           <div className="row">
-            <div className="twelve columns collapsed">
+            <div className="twelve columns collapsed text-center">
               <h1>Check Out Some of My Projects!</h1>
 
               <div
