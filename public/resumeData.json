@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Harrison Kidd",
-    "description": "I am a full-stack web developer and use JavaScript and React to develop web pages and applications. Learn more about me and check out some of the cool things I have been working on down below",
+    "description": "I am a full-stack web developer using JavaScript and React to develop web pages and applications. Learn more about me and check out some of the cool things I have been working on down below",
     "image": "IMG_0527.jpeg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "bio": "Full Stack JavaScript Web Developer, with a natural sciences background. Highly motivated and ambitious problem solver looking to join a forward thinking software development team. Experienced with developing front-end, back-end, and full stack web applications.",
+    "contactmessage": "Feel free to send me a message if you would like to link up or have general comments!",
     "email": "harrisonakidd@gmail.com",
     "github": "https://github.com/hkidd",
     "address": {
@@ -16,7 +16,7 @@
     "social": [
       {
         "name": "facebook",
-        "url": "https://github.com/nordicgiant2/react-nice-resume",
+        "url": "https://facebook.com/harrison.kidd",
         "className": "fa fa-facebook"
       },
       {
@@ -37,7 +37,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Full Stack JavaScript Web Developer, with a natural sciences background.",
+    "skillmessage": "These are some of the primary languages and tools that I have been using lately, with approximate proficiency levels.",
     "education": [
       {
         "school": "University of Texas at Austin",
@@ -68,7 +68,7 @@
     ],
     "skills": [
       {
-        "name": "HTML",
+        "name": "HTML5",
         "level": "90%"
       },
       {
@@ -76,19 +76,19 @@
         "level": "75%"
       },
       {
-        "name": "ReactJs",
+        "name": "React.js",
         "level": "50%"
       },
       {
-        "name": "CSS",
+        "name": "CSS3",
         "level": "85%"
       },
       {
-        "name": "Node",
+        "name": "Node.js",
         "level": "70%"
       },
       {
-        "name": "Express",
+        "name": "Express.js",
         "level": "60%"
       },
       {
@@ -109,51 +109,39 @@
     "projects": [
       {
         "title": "Spuds and Duds",
-        "category": "",
+        "description": "",
         "image": "01.jpg",
         "url": "https://spudsandduds.herokuapp.com/"
       },
       {
         "title": "Jobster",
-        "category": "",
+        "description": "",
         "image": "02.jpg",
         "url": "http://www.timbakerdev.com"
       },
       {
         "title": "Pickflix and Grill",
-        "category": "",
+        "description": "",
         "image": "03.jpg",
         "url": "http://www.timbakerdev.com/originalthaifood.github.io"
       },
       {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
+        "title": "Note Taker",
+        "description": "A React based resume website template",
         "image": "04.jpg",
         "url": "http://www.timbakerdev.com"
       },
       {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "title": "Budget Tracker",
+        "description": "(MVP Only) A React and Meteor based chat University project.",
         "image": "05.jpg",
         "url": "http://www.smirkspace.com"
       },
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
+        "title": "Formula 1 Quiz",
+        "description": "My Travel Blog for my post-university travels",
         "image": "06.jpg",
         "url": "https://www.canadianwanderlust.com"
-      },
-      {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "01.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "02.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
       }
     ]
   }

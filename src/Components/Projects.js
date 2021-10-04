@@ -29,7 +29,7 @@ class Projects extends Component {
 
               <div
                 id="projects-wrapper"
-                className="bgrid-quarters s-bgrid-thirds cf"
+                className="bgrid-thirds cf"
               >
                 {projects}
               </div>
