@@ -1,4 +1,4 @@
-# UpdatedReactPortfolio
+# React Portfolio v2
 Building a single-page web app portfolio using React to showcase some of my recent projects.
 
 Bagen working with a Nordic Giant Template (linked down below).  Tweaks and modifications made by me to meet my needs.
