@@ -21,7 +21,7 @@ class Contact extends Component {
             </div>
 
             <div className="ten columns">
-              <p className="lead">{message}</p>
+              <p className="lead">{message} "(Work in progress)"</p>
             </div>
           </div>
         </Fade>
